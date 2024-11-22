@@ -14,3 +14,4 @@ if __name__ == '__main__':
             b5=True
     print(b1,b2,b3,b4,b5,sep="\n")
     
+    
