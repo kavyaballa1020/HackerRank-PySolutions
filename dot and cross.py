@@ -9,6 +9,6 @@ for i in range(N):
 for i in range(N):
     arr2.append(list(map(int,input().split())))
 arr1=np.array(arr1)
-arr2=np.array(arr1)
+arr2=np.array(arr2)
 arr3=np.dot(arr1,arr2)
 print(arr3)
